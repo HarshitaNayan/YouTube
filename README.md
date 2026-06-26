@@ -1,3 +1,3 @@
 # YouTube
-Built YouTube clone by using Html and CSS
+Built YouTube clone by using Html and CSS.
 Author - Harshita Nayan
